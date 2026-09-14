@@ -9,7 +9,7 @@
 # Personal asset index（个人真实数据，只保留 .example.json 模板）
 assets/personal-asset-index.json
 
-# 环境变量（API key 等敏感信息，只保留 .env.example 模板）
+# 环境变量（API key 等敏感信息不进入 Skill package）
 .env
 .env.local
 
